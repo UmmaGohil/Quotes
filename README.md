@@ -1,4 +1,4 @@
-# Quotes Machine
+# Random Quotes
 
 * Click on the button to view random quotes
 
